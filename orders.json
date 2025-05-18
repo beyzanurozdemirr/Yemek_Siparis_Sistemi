@@ -1,0 +1,39 @@
+[
+    {
+        "user_phone": "05459435111",
+        "order_date": "2025-05-18 05:43:13",
+        "items": [
+            {
+                "food": "Su\u015fi",
+                "quantity": 5,
+                "price": 60,
+                "total": 300,
+                "delivery_time": "40-50 dakika"
+            }
+        ],
+        "total_price": 300,
+        "delivery_address": "\u015fakay\u0131k mahallesi \u00e7e\u015fme sokak no:14 kat:5"
+    },
+    {
+        "user_phone": "05459435111",
+        "order_date": "2025-05-18 05:43:26",
+        "items": [
+            {
+                "food": "Izgara Somon",
+                "quantity": 1,
+                "price": 75,
+                "total": 75,
+                "delivery_time": "45-55 dakika"
+            },
+            {
+                "food": "Mant\u0131",
+                "quantity": 2,
+                "price": 65,
+                "total": 130,
+                "delivery_time": "30-40 dakika"
+            }
+        ],
+        "total_price": 205,
+        "delivery_address": "\u015fakay\u0131k mahallesi \u00e7e\u015fme sokak no:14 kat:5"
+    }
+]
